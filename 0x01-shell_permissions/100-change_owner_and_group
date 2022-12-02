@@ -1,0 +1,2 @@
+#!/bin/bash
+chwown -hR vincent:staff .
