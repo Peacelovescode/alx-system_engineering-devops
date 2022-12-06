@@ -1,2 +1,2 @@
 #!/bin/bash
-cut --characters=2,3,5-7
+cut -c=c,C
