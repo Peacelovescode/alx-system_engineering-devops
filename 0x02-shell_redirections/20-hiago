@@ -1,2 +1,2 @@
 #!/bin/bash
-tr c C 
+cut --characters=2,3,5-7
